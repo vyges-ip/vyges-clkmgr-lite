@@ -3,7 +3,7 @@ upstream:
   type: "standalone"
   repo: https://github.com/vyges/vyges-clkmgr-lite
   branch: main
-  commit: 9f558f2a42b68c37e373aef916d826dad9e7b936
+  commit: 2df923ac0f19c1d602c55a7d9e06234b84e42337
   extracted_at: "2026-03-28T01:51:07Z"
 import:
   rtl:

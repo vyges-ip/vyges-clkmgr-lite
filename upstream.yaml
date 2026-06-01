@@ -3,7 +3,7 @@ upstream:
   type: "standalone"
   repo: https://github.com/vyges/vyges-clkmgr-lite
   branch: main
-  commit: 2df923ac0f19c1d602c55a7d9e06234b84e42337
+  commit: 8e02268378b2e9749bfb3fb9465f9c0423e1a42f
   extracted_at: "2026-03-28T01:51:07Z"
 import:
   rtl:
@@ -16,5 +16,4 @@ import:
 license:
   spdx: Apache-2.0
   file: LICENSE
-
 metadata_locked: true
